@@ -1,5 +1,6 @@
 # Ready Rides
-# <a href="https://ready-rides.firebaseapp.com/">|| Live Site</a>
+#Link: https://bengal-rides.netlify.app/
+
 <h3>About site</h3>
 <p>This is the fast growing ride sharing service website. Ready Rides has different services like Bike ride share, Car ride share, Bus ride share, Train ride share.</p>
 
