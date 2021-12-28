@@ -1,0 +1,46 @@
+.nav-bar {
+    background-color: rgba(0, 0, 0, 0.5)!important;
+    padding: 0!important;
+}
+.navBarMenu a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 0 1rem;
+    font-size: 1.2rem;
+    border-bottom: 2px solid transparent;
+    margin-top: 0.3rem;
+}
+
+.navBarMenu a:hover {
+    text-decoration: none;
+    color: #0984e3;
+}
+
+.brandName a{
+    font-weight: bold;
+    color: #fff;
+    padding: 1.2rem 1.8rem;
+    font-size: 1.4rem;
+    border-bottom: 3px solid transparent;
+}
+.highlight {
+    color: #0984e3;
+}
+.brandName a:hover {
+    padding: 1.2rem 1.8rem;
+    text-decoration: none;
+}
+.logo {
+    margin-right: 0.5rem;
+}
+.navBtn{
+    font-weight: 600;
+    background: #0984e3;
+    border: 0;
+    color: #fff;
+    padding: 0.4rem 1.6rem;
+    border-radius: 0.3rem;
+}
+.navBtn:hover {
+    background: #0768b3;
+}

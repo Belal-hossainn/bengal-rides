@@ -1,0 +1,61 @@
+.timeline {
+    background:  #0984E3;
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+}
+.vehicleInfo {
+    width: 100%;
+    background-color: white;
+    color: #0984E3;
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+.vehicleInfo:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.vehicleInfo img {
+    width: 60px;
+    background: white;
+    border-radius: 0.4rem;
+}
+.price {
+    text-align: end;
+}
+.timeline-area {
+    width: 100%;
+    border-left: 1px solid #fff;
+    padding: 0 20px;
+}
+.timeline-content {
+    position: relative;
+}
+.timeline-area h2 {
+    margin: 20px 0;
+    font-size: 1.5rem;
+}
+.timeline-content:before {
+    content: '';
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: absolute;
+    left: -25px;
+}
+.timeline-content2:before {
+    top: 20px;
+}
+.timeline-content2 > h2 {
+    margin-top: 30px;
+    text-align: bottom;
+}
+.alert {
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    background-color: rgba(0,0,0,0.2);
+    color: rgb(13, 175, 13);
+}

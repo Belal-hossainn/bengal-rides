@@ -1,0 +1,39 @@
+[{
+    "id": 1,
+    "image": "https://i.ibb.co/Db9qDk9/ride1.webp",
+    "name": "Motorcycle",
+    "more":[
+      {"passenger": 1, "price": 30},
+      {"passenger": 2, "price": 55}
+    ]
+  }, {
+    "id": 2,
+    "image": "https://i.ibb.co/wdWHSQt/ride2.png",
+    "name": "Car",
+    "more":[
+      {"passenger": 1, "price": 25},
+      {"passenger": 2, "price": 45},
+      {"passenger": 3, "price": 67},
+      {"passenger": 4, "price": 88}
+    ]
+  }, {
+    "id": 3,
+    "image": "https://i.ibb.co/rmbkxrH/ride3.png",
+    "name": "Bus",
+    "more":[
+      {"passenger": 3, "price": 45},
+      {"passenger": 6, "price": 80},
+      {"passenger": 10, "price": 110},
+      {"passenger": 15, "price": 140}
+    ]
+  }, {
+    "id": 4,
+    "image": "https://i.ibb.co/FV5K0Ks/See-also.jpg",
+    "name": "Train",
+    "more":[
+      {"passenger": 7, "price": 50},
+      {"passenger": 15, "price": 90},
+      {"passenger": 20, "price": 120},
+      {"passenger": 25, "price": 150}
+    ]
+  }]
